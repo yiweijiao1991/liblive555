@@ -1,0 +1,1 @@
+CROSS = arm-linux-gnueabihf-
